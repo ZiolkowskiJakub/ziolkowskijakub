@@ -2,7 +2,7 @@
 
 **Software engineer for the AEC industry.** I build the computational layer behind building design — geometry engines, GIS data pipelines, and simulation tooling for Revit, Rhino, and the browser.
 
-Warsaw, Poland · [digiproject.uk](https://digiproject.uk)
+[digiproject.uk](https://digiproject.uk)
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
